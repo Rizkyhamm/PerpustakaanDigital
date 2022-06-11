@@ -38,26 +38,36 @@ CREATE TABLE Penulis(
 7. Kami sarankan agar program ini dijalankan dengan dengan PyCharm seperti yang kita lakukan.
 8. Program dapat digunakan.
 ## Demo
-Tampilan awal aplikasi.
+**Tampilan awal aplikasi.**
+
 ![Awal](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/0.jpeg)
-Menampilkan data perpustakaan.
+
+**Menampilkan data perpustakaan.**
 ![1.1](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/1.1.jfif)
-Menampilkan data penulis.
+
+**Menampilkan data penulis.**
 ![1.2](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/1.2.jfif)
-Mencari buku berdasarkan nama buku.
+
+**Mencari buku berdasarkan nama buku.**
 ![2.1](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/2.1.jfif)
-Mencari buku berdasarkan nama penulis buku.
+
+**Mencari buku berdasarkan nama penulis buku.**
 ![2.2](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/2.2.jfif)
-Mencari buku berdasrkan tahun penerbitan.
+
+**Mencari buku berdasrkan tahun penerbitan.**
 ![2.3](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/2.3.jfif)
-Mencari buku berdasarkan ISBN.
+
+**Mencari buku berdasarkan ISBN.**
 ![2.4](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/2.4.jfif)
-Mengulas buku.
+
+**Mengulas buku.**
 ![3.1](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/3.1.jfif)
-Mengulas penulis.
+
+**Mengulas penulis.**
 ![3.2](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/3.2.jfif)
-Video demo
-[Demo](https://drive.google.com/file/d/1vnv9p7pgMkpBjjyP6bYFI6h0IV_T-3vS/view?usp=sharing)
+
+Video [demo](https://drive.google.com/file/d/1vnv9p7pgMkpBjjyP6bYFI6h0IV_T-3vS/view?usp=sharing).
+
 ## Referensi
 1. [Dataset Buku](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks)
 2. [Dataset Penulis](https://www.kaggle.com/datasets/choobani/goodread-authors)
