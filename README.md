@@ -1,4 +1,4 @@
-# Anggota Tim
+# Kelompok 8
 - Alimudinsyah Alrasyid
 - Ilpi Yuditya Mulyana
 - Rizky Hamdani Sakti
