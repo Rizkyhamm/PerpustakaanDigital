@@ -7,6 +7,8 @@
 Problem yang kami ambil yaitu dikarenakan perpustakaan kami semasa SMA tidak memiliki aplikasi *CRUD* yang membuat kami selaku pengunjung perpustakaan kesulitan untuk mencari buku yang kami mau.
 ## Solusi
 Kami memberikan solusi dengan cara membuat sebuah aplikasi *CRUD* yang dapat melihat apa saja koleksi yang perpustakaan miliki dan melakukan ulasan terhadap suatu buku. Pengguna dapat mencari data semua buku ataupun dengan kata kunci seperti nama buku, nama penulis, tahun penerbitan dan juga nomor ISBN.
+## ***Flowchart***
+![Flowchart](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/FlowchartPerpustakaanDigital.png)
 ## Panduan menggunakan Aplikasi
 1. Pastikan telah terpasang aplikasi MySQL Workbench atau XAMPP sebagai aplikasi *database*.
 2. Pasang aplikasi Anaconda sebagai *environmet* yang akan digunakan dalam program Python.
