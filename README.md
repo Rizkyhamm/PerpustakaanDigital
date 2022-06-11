@@ -10,7 +10,7 @@ Kami memberikan solusi dengan cara membuat sebuah aplikasi *CRUD* yang dapat mel
 ## Panduan menggunakan Aplikasi
 1. Pastikan telah terpasang aplikasi MySQL Workbench atau XAMPP sebagai aplikasi *database*.
 2. Pasang aplikasi Anaconda sebagai *environmet* yang akan digunakan dalam program Python.
-3. Buka aplikasi *database* yang kalian miliki, lalu *import* file [DatabasePerpustakaan.sql](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/PerpustakaanDigital.sql) dan [TabelPenulis.sq;](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/TabelPenulis.sql) ini atau *copy* kode di bawah ini untuk membuat *database* dan *table* nya. Bila Anda menggunakan XAMPP, anda hanya perlu menyalin kode di atas pada baris pertama.
+3. Buka aplikasi *database* yang kalian miliki, lalu *import* file [DatabasePerpustakaan.sql](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/PerpustakaanDigital.sql) dan [TabelPenulis.sql](https://github.com/Rizkyhamm/PerpustakaanDigital/blob/main/TabelPenulis.sql) ini atau *copy* kode di bawah ini untuk membuat *database* dan *table* nya. Bila Anda menggunakan XAMPP, anda hanya perlu menyalin kode di atas pada baris pertama.
 ```sql
 CREATE DATABASE Perpustakaan;
 CREATE TABLE Buku(
